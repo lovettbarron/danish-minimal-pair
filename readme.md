@@ -3,6 +3,7 @@ Danish Minimal Pair Anki list.
 
 Built according to the The Fluent Forever [pronunciation training recommendations](https://fluent-forever.com/chapter3/)
 
+[DOWNLOAD](https://github.com/readywater/danish-minimal-pair/raw/master/Danish%20Minimal%20Pairs.apkg)
 
 ### Resources
 - Cut audio files are in `/danish-audio`
