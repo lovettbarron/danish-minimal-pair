@@ -3,6 +3,11 @@ Danish Minimal Pair Anki list
 Built re: The fluent forever pronunciation training recommendations
 https://fluent-forever.com/chapter3/
 
+- Cut audio files are in `/danish-audio`
+- Spreadsheet I used for organization is `spreadsheet.csv`
+- Download the `apkg` file to your [Anki app](https://ankiweb.net) to use the deck.
+
+
 Free to use.
 Tips are appreciated! 
 - [paypal.me/andrewlb](https://www.paypal.me/andrewlb)
